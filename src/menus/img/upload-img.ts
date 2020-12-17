@@ -162,7 +162,7 @@ class UploadImg {
             let name = uploadFileName || file.name
             if (resultFiles.length > 1) {
                 // 多个文件时，filename 不能重复
-                name = name + (index + 1)
+                name = `${name}[]`
             }
             formData.append(name, file)
         })

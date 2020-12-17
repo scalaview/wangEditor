@@ -1,7 +1,7 @@
 {
-  "name": "wangeditor",
+  "name": "wangeditor-fix-upload",
   "version": "4.5.3",
-  "description": "wangEditor - 轻量级 web 富文本编辑器，配置方便，使用简单，开源免费",
+  "description": "wangEditor - 轻量级 web 富文本编辑器，配置方便，使用简单，开源免费(修改版)",
   "homepage": "http://www.wangeditor.com/",
   "keywords": [
     "wangEditor",
