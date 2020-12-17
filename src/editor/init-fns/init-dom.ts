@@ -51,9 +51,6 @@ export default function (editor: Editor): void {
 
         // toolbarElemId 使用生成的
         toolbarElemId = getRandom('toolbar-elem')
-
-        // toolbarElemId 使用生成的
-        toolbarElemId = getRandom('toolbar-elem')
     } else {
         // toolbarSelector 和 textSelector 都有
         $toolbarElem = $toolbarSelector
